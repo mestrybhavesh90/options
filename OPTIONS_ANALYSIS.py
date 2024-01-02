@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import requests
 import time
-from flask import Flask, render_template
 import pandas as pd
 from math import ceil
 from datetime import datetime, timedelta
