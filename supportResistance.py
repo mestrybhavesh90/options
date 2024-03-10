@@ -1,3 +1,8 @@
+!pip install yfinance
+!pip install plotly
+!pip install pandas 
+
+
 import pandas as pd
 import yfinance as yf
 import streamlit as st
