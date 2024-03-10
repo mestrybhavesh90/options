@@ -1,6 +1,6 @@
-!pip install yfinance
-!pip install plotly
-!pip install pandas 
+pip install yfinance
+pip install plotly
+pip install pandas 
 
 
 import pandas as pd
